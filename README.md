@@ -47,5 +47,10 @@ This repository contains my Java solutions to LeetCode problems.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
