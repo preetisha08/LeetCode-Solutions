@@ -36,6 +36,7 @@ This repository contains my Java solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
