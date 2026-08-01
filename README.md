@@ -42,10 +42,12 @@ This repository contains my Java solutions to LeetCode problems.
 | [0334-increasing-triplet-subsequence](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +57,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [0345-reverse-vowels-of-a-string](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -83,4 +86,8 @@ This repository contains my Java solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 <!---LeetCode Topics End-->
