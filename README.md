@@ -41,6 +41,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [0283-move-zeroes](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Hash Table
@@ -90,4 +91,8 @@ This repository contains my Java solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
