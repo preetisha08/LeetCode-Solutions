@@ -46,6 +46,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ This repository contains my Java solutions to LeetCode problems.
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
