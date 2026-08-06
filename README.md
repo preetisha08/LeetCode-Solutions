@@ -55,6 +55,7 @@ This repository contains my Java solutions to LeetCode problems.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1657-determine-if-two-strings-are-close](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/preetisha08/LeetCode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Two Pointers
@@ -77,6 +78,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [0443-string-compression](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@ This repository contains my Java solutions to LeetCode problems.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -115,4 +118,8 @@ This repository contains my Java solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 <!---LeetCode Topics End-->
