@@ -144,4 +144,16 @@ This repository contains my Java solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
