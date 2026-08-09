@@ -166,5 +166,6 @@ This repository contains my Java solutions to LeetCode problems.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0328-odd-even-linked-list](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/preetisha08/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
