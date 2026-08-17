@@ -193,6 +193,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [0199-binary-tree-right-side-view](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
+| [0547-number-of-provinces](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -203,6 +204,7 @@ This repository contains my Java solutions to LeetCode problems.
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0547-number-of-provinces](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -237,5 +239,10 @@ This repository contains my Java solutions to LeetCode problems.
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
