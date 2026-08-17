@@ -40,6 +40,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [0238-product-of-array-except-self](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0399-evaluate-division](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0605-can-place-flowers](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -81,6 +82,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [0345-reverse-vowels-of-a-string](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
+| [0399-evaluate-division](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0443-string-compression](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0649-dota2-senate](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0649-dota2-senate/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -192,6 +194,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0399-evaluate-division](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0437-path-sum-iii](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
 | [0547-number-of-provinces](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -205,6 +208,7 @@ This repository contains my Java solutions to LeetCode problems.
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0399-evaluate-division](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -241,11 +245,25 @@ This repository contains my Java solutions to LeetCode problems.
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/preetisha08/LeetCode-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0399-evaluate-division/) | Medium |
+## Bellman–Ford Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0399-evaluate-division/) | Medium |
+## Floyd–Warshall Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/preetisha08/LeetCode-Solutions/tree/main/0399-evaluate-division/) | Medium |
 <!---LeetCode Topics End-->
