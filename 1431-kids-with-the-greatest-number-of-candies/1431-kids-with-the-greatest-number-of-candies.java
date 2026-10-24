@@ -11,14 +11,13 @@ class Solution {
 
         List<Boolean> result = new ArrayList<>();
 
-        for (i=0; i<candies.length; i++){
-            if (candies[i] + extraCandies >= max){
+        for(i=0; i<candies.length; i++){
+            if(candies[i] + extraCandies >= max){
                 result.add(true);
             } else{
                 result.add(false);
             }
         }
         return result;
-        
     }
 }
